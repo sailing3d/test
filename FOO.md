@@ -1,2 +1,3 @@
 FOO
+foobar
 bar
